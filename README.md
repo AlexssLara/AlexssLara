@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Seja bem vindo
 
  <div>
    <a href="https://github.com/AlexssLara">
@@ -14,7 +14,7 @@
 
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Me segue ae
  
 <div> 
   
